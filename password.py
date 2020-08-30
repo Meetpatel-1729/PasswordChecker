@@ -1,7 +1,3 @@
-# I, Meet Patel, student number 000794612, certify that all code submitted
-# is my own work; that I have not copied it from any other source.
-# I also certify that I have not allowed my work to be copied by others.
-
 # function to check if password is valid or not 
 def passwordIsOk( password ):
     validLength = True
